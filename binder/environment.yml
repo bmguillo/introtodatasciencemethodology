@@ -6,7 +6,7 @@ dependencies:
   - pandas
   - seaborn
   - matplotlib
-  - ssklearn
+  - sklearn
   - tree
   - accuracy_score
   - confusion_matrix
